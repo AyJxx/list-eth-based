@@ -11,7 +11,7 @@ This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-s
 
 2. Download the box. This also takes care of installing the necessary dependencies.
     ```javascript
-    truffle unbox chainskills/chainskills-box
+    truffle unbox List/List-box
     ```
 
 3. Run the development console.
